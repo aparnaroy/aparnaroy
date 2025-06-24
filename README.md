@@ -10,7 +10,7 @@
 
 For more about my **work**, **projects**, **skills**, and **background**, visit my personal website:
 
-[![Website](https://raw.githubusercontent.com/aparnaroy/aparnaroy/main/personal-site-link.svg)](https://aparnaroy.vercel.app)
+[![Website](https://raw.githubusercontent.com/aparnaroy/aparnaroy/main/website-link.svg)](https://aparnaroy.vercel.app)
 
 ## 📫 Get in Touch
 
