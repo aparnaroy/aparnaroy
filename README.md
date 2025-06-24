@@ -12,4 +12,4 @@ For more about my **projects**, **skills**, and **background**, visit my persona
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aparna-roy1)
 &nbsp; [![Email](https://img.shields.io/badge/Send_an_email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aparnar@udel.edu)
 
-Thanks for stopping by! Let’s build something amazing together. 🚀
+Thanks for stopping by! Let’s build something amazing together 🚀
