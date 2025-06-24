@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there! I'm Aparna Roy
 
-<!--
-**aparnaroy/aparnaroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🌍 Based in Delaware
+- 👔 Software Developer @ JPMorgan Chase
+- 🚀 Passionate about coding, building meaningful projects, and lifelong learning
 
-Here are some ideas to get you started:
+For more about my **projects**, **skills**, and **background**, visit my personal website:  
+🌐 [aparnaroy.vercel.app](https://aparnaroy.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/aparna-roy1)
+- 📧 [aparnar@udel.edu](mailto:aparnar@udel.edu)
+
+Thanks for stopping by! Let’s build something amazing together. 🚀
