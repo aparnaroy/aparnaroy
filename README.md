@@ -16,3 +16,5 @@ For more about my **work**, **projects**, **skills**, and **background**, visit 
 
 Thanks for stopping by! Let’s build something amazing together 🚀
 
+
+[![Website](https://raw.githubusercontent.com/aparnaroy/aparnaroy/main/website-badge.svg)](https://aparnaroy.vercel.app)
