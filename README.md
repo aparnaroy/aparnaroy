@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Aparna Roy
+# 👋 Hi there! I'm Aparna Roy
 
 ## 🌟 About Me
 
